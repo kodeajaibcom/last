@@ -1,6 +1,4 @@
 <?php
-
 require_once '../app/init.php';
-
-// tets
+// RUN APP
 $app = new App;
